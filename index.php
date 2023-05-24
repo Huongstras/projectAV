@@ -1,2 +1,3 @@
-hello
-chi la test thu xem the nao thoi
+<?php
+echo "hello chi la test thu xem the nao thoi";
+?>
